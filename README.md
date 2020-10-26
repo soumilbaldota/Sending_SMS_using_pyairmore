@@ -4,5 +4,5 @@ sending sms(es) using python
 
 # Usage
 
-#python
- path/sms.py <space> IPv4 Address <space> phone no.<space> your message
+# python 
+<path/sms.py> <IPv4 Address> <phone no.> <your message>
